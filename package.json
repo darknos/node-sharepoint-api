@@ -1,6 +1,6 @@
 {
   "name": "sharepoint-api-ipublisher",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "'SharePoint Online' client for Nodejs forked and tweaked for ad-hoc use",
   "main": "index.js",
   "repository": {
